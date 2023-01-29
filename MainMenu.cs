@@ -37,7 +37,7 @@ namespace MathGame
             switch (userSelection)
             {
                 case 1:
-                    // AdditionGame
+                    AdditionGame.ShowGame(gameHistory);
                     break;
                 case 2:
                     // SubtractionGame
