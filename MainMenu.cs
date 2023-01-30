@@ -40,13 +40,13 @@ namespace MathGame
                     AdditionGame.ShowGame(gameHistory);
                     break;
                 case 2:
-                    // SubtractionGame
+                    SubtractionGame.ShowGame(gameHistory);
                     break;
                 case 3:
-                    // MultiplicationGame
+                    MultiplicationGame.ShowGame(gameHistory);
                     break;
                 case 4:
-                    // DivisionGame
+                    DivisionGame.ShowGame(gameHistory);
                     break;
                 case 5:
                     GameHistory();
